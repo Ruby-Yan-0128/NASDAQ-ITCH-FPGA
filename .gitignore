@@ -1,0 +1,18 @@
+# Raw NASDAQ market data and compiled C++ binaries
+*.bin
+*.gz
+*.exe
+*.obj
+*.o
+
+# Vivado generated build artifacts and logs
+*.jou
+*.log
+*.str
+*.bit
+*.hw/
+*.cache/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
